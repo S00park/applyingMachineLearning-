@@ -1,2 +1,2 @@
-Experimenting applying machine learning to studentlife Dataset
+Experimenting applying machine learning to studentlife Dataset/
 Ongoing project!! 
